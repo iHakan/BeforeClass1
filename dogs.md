@@ -7,4 +7,3 @@
 5. Pugs
 6. Poodles
 7. Chihuahua
-8.
